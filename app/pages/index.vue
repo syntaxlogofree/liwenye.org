@@ -4,7 +4,7 @@
       <h2 class="subtitle">
         passion to improve quality of life
       </h2>
-      
+
     </div>
   </section>
 </template>
