@@ -5,15 +5,15 @@
 ## to do
 
 > styling
->> correctly config Bulma and sass
->> nuxt page transitions
->> svg animation for services page
+- correctly config Bulma and sass
+- nuxt page transitions
+- svg animation for services page
 
 > CMS benchmark
->> wordpress
->> netlify CMS
+- wordpress
+- netlify CMS
 
 > functionality
->> easy and secure contact form
->> online assistant
->> map
+- easy and secure contact form with a calendar
+- embed online assistant
+- map
