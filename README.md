@@ -5,13 +5,14 @@
 ## to do
 
 > styling
-- correctly config Bulma and sass
+- ~~correctly config Bulma and sass~~
+- customize Bulma
 - nuxt page transitions
 - svg animation for services page
 
 > CMS benchmark
 - wordpress
-- netlify CMS
+- ~~netlify CMS~~
 
 > functionality
 - easy and secure contact form with a calendar
