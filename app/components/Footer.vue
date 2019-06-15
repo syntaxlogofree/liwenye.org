@@ -1,14 +1,14 @@
 <!-- components/Footer.vue -->
 <template>
-  <footer>
-    <div class="columns">
-      <div class="column has-text-centered">
+  <footer class="fixed">
+    <div class="row center">
+      <div class="col-xs-12 col-md-4">
         Make an Appointment
       </div>
-      <div class="column has-text-centered">
+      <div class="col-xs-12 col-md-4">
         <p>2 Parkview PL, Staten Island, NY 10310</p>
       </div>
-      <div class="column has-text-centered">
+      <div class="col-xs-12 col-md-4">
         <p>&copy; liwenye.org site by MOT</p>
       </div>
     </div>
@@ -17,18 +17,17 @@
 
 <style lang="scss">
 footer{
-  position: fixed;
+  text-align: center;
+  background: #fff;
   bottom: 0;
-  left: 0;
-  width: 100%;
-  padding: $code-padding;
   border-top: 1px solid $link;
+  padding: $padding;
 
   p{
     margin-bottom: 0;
   }
 
-  .column{
+  .col-xs-12{
       border-right: 1px solid $link;
 
       &:last-child{

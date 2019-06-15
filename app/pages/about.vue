@@ -1,7 +1,6 @@
 <template>
-  <section class="columns is-gapless">
-    <div class="column">
-
+  <section class="row section">
+    <div class="col-xs-12 col-md-6">
       <div class="inner">
         <p>Dr. Ye has had extensive experiences at <em>Johns Hopkins University Medical school</em> (9 years),
           <em>Beth Israel Deaconess Medical Center</em> at Harvard University Medical School (2 years)
@@ -22,7 +21,7 @@
           infectious diseases in a teaching hospital in China.</p>
       </div>
     </div>
-    <div class="column  bg-light">
+    <div class="col-xs-12 col-md-6 bg-light">
       <div class="inner">
         <p>
           <img src="" alt="">

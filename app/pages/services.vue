@@ -1,15 +1,19 @@
 <template>
-  <section class="columns is-gapless">
-    <div class="column has-text-centered">
-      <h2>Mind &amp; Body Medicine</h2>
+  <section class="section row">
+    <div class="col-xs-12 col-md-6 bg-light">
+      <div class="inner tc">
+        <h2>Mind &amp; Body Medicine</h2>
+      </div>
     </div>
-    <div class="column has-text-centered">
-      <h2>Medical Acupuncture</h2>
+    <div class="col-xs-12 col-md-6">
+      <div class="inner tc">
+        <h2>Medical Acupuncture</h2>
+      </div>
     </div>
   </section>
 </template>
 
 
-<style lang="scss">
+<style lang="scss" scoped>
 
 </style>

@@ -34,7 +34,7 @@ module.exports = {
   */
   modules: [
     '@nuxtjs/style-resources',
-    '@nuxtjs/bulma',
+    'flexboxgrid-sass'
   ],
   styleResources: {
     scss: [
