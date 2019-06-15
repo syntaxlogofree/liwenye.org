@@ -8,15 +8,11 @@
           <nuxt-link class="navbar-item" to="/contact">Contact</nuxt-link>
       </div>
       <div class="navbar-brand">
-        <!-- <h1 class="title">
+        <h1 class="title">
           <a href="/">Liwen Ye</a><br>
-          <small>MD &amp; P.hD</small>
-        </h1> -->
-        <button class="button navbar-burger">
-          <span></span>
-          <span></span>
-          <span></span>
-        </button>
+          <small class="is-size-5">MD &amp; P.hD</small>
+        </h1>
       </div>
     </nav>
+
 </template>

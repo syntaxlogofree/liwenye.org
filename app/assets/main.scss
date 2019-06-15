@@ -1,0 +1,46 @@
+@charset "utf-8";
+@font-face {
+    font-family: 'gidoleregular';
+    src: url('../assets/fonts/gidole-regular-webfont.woff2') format('woff2'),
+         url('../assets/fonts/gidole-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+$body-family: "gidoleregular", sans-serif;
+$primary: #4D4D4D;
+$link: #4EC0EA;
+$light: #E3F7FF;
+$dark: #0697D4;
+$body-color: $primary;
+$code-padding: 1rem 1rem 1rem 1rem;
+$padding: 3rem;
+
+@import "~bulma/bulma";
+
+p{
+  margin-bottom: 1rem;
+
+  em, strong{
+    color: $dark;
+  }
+}
+
+.subtitle{
+  color: $dark;
+}
+
+.bg-light{
+  background: $light;
+}
+
+.bg-dark{
+  background: $dark;
+}
+
+.inner{
+  padding: $padding;
+}
+
+.navbar{
+  background: none;
+}
