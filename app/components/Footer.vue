@@ -1,15 +1,15 @@
 <!-- components/Footer.vue -->
 <template>
   <footer class="fixed">
-    <div class="row center">
+    <div class="row middle-xs center">
       <div class="col-xs-12 col-md-4">
         Make an Appointment
       </div>
       <div class="col-xs-12 col-md-4">
-        <p>2 Parkview PL, Staten Island, NY 10310</p>
+        <p>2 Parkview PL, <br> Staten Island, NY 10310</p>
       </div>
       <div class="col-xs-12 col-md-4">
-        <p>&copy; liwenye.org site by MOT</p>
+        <p>&copy; liwenye.org <br> SITE by <a href="https://mouthoftiger.com" target="_blank">MOT</a></p>
       </div>
     </div>
   </footer>

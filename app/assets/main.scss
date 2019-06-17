@@ -10,11 +10,24 @@ $body-family: "gidoleregular", sans-serif;
 $primary: #4D4D4D;
 $link: #4EC0EA;
 $light: #E3F7FF;
+$medium: #72d5f5;
 $dark: #0697D4;
-$body-color: $primary;
 $padding: 1rem;
 
 @import "~flexboxgrid-sass/flexboxgrid.scss";
+
+button{
+  background: #fff;
+  border: none;
+  margin: 1rem 0;
+  border-bottom: 1px solid $dark;
+
+  a{
+    text-decoration: none;
+    font-size: 1rem;
+    color: $dark;
+  }
+}
 
 .tc{
   text-align: center;
@@ -34,18 +47,19 @@ $padding: 1rem;
 
 p{
   margin-bottom: 1rem;
+  line-height: 1.25rem;
 
   em, strong{
     color: $dark;
   }
 }
 
-.subtitle{
-  color: $dark;
-}
-
 .bg-light{
   background: $light;
+}
+
+.bg-medium{
+  background: $medium;
 }
 
 .bg-dark{
@@ -58,4 +72,11 @@ p{
 
 .navbar{
   background: none;
+}
+
+.page-enter-active, .page-leave-active {
+  transition: opacity .5s;
+}
+.page-enter, .page-leave-to {
+  opacity: 0;
 }

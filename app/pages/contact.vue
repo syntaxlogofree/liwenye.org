@@ -5,8 +5,8 @@
         <p>Visit by appointment only.</p>
         <p>Initial evaluation: $500 (90 min)</p>
         <p>Follow up sessions: $200-300 (30 to 45min)</p>
-        <p>I am not in-network with any insurance companies for my private practice.<br/>
-          Please check with your insurer about out-of-network mental health and/or acupuncture benefits. </p>
+        <p>I am not in-network with any insurance companies for my private practice.</p>
+        <p>Please check with your insurer about out-of-network mental health and/or acupuncture benefits. </p>
       </div>
     </div>
     <div class="col-xs-12 col-md-6">

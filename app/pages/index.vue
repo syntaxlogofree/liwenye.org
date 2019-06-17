@@ -4,13 +4,27 @@
       <h2 class="subtitle tc">
         Passion to Improve Quality of Life
       </h2>
-      <p class="tc">
+      <button class="tc">
       <nuxt-link class="navbar-item" to="/about">Learn More About Dr. Ye</nuxt-link>
-      </p>
+    </button>
     </div>
+    <animation></animation>
   </section>
 </template>
+<script>
+  import Animation from '../components/Animation'
+  export default {
+    transition: 'page',
+    components: {
+      Animation
+    }
+  }
+</script>
 
-<style lang="scss">
+<style lang="scss" scoped>
+.subtitle{
+  color: $dark;
+  margin-bottom: 2rem;
+}
 
 </style>

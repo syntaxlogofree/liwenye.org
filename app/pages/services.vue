@@ -5,7 +5,7 @@
         <h2>Mind &amp; Body Medicine</h2>
       </div>
     </div>
-    <div class="col-xs-12 col-md-6">
+    <div class="col-xs-12 col-md-6 bg-medium">
       <div class="inner tc">
         <h2>Medical Acupuncture</h2>
       </div>
