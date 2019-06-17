@@ -6,13 +6,14 @@
 
 > styling
 - ~~correctly config Bulma and sass~~
-- customize Bulma
-- nuxt page transitions
+- ~~customize Bulma~~
+- use hugeinc flexbox sass instead
+- ~~nuxt page transitions~~
 - svg animation for services page
 
 > CMS benchmark
-- wordpress
-- ~~netlify CMS~~
+- ~~wordpress~~
+- netlify CMS
 
 > functionality
 - easy and secure contact form with a calendar
