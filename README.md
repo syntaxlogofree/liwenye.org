@@ -16,6 +16,7 @@
 - netlify CMS
 
 > functionality
+- internalization : [https://medium.com/@allenhwkim/multiple-language-with-nuxt-vuejs-efc3dad45eac]
 - easy and secure contact form with a calendar
 - embed online assistant
 - map

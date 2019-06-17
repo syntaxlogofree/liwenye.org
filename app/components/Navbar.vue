@@ -3,10 +3,10 @@
     <nav class="navbar box fixed" role="navigation" aria-label="main navigation">
       <div class="row">
         <div class="col-xs-12 col-md-6">
-          <!-- <h1 class="title">
+          <h1 class="title">
             <a href="/">Liwen Ye</a>
             <small>MD &amp; P.hD</small>
-          </h1> -->
+          </h1>
         </div>
         <div class="col-xs-12 col-md-6 first-md">
             <a class="navbar-item" href="/">Home</a>
