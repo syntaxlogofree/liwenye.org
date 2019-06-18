@@ -44,7 +44,6 @@ module.exports = {
   ** Build configuration
   */
   build: {
-    vendor: ['vue-i18n'],
     postcss: {
       preset: {
         features: {
@@ -57,12 +56,5 @@ module.exports = {
     */
     extend(config, ctx) {
     }
-  },
-  router: {
-    middleware: 'i18n'
-  },
-  plugins: ['~/plugins/i18n.js'],
-  generate: {
-    routes: ['/', ]
   }
 }
